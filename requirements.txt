@@ -21,10 +21,12 @@ jupyter-client==6.1.12
 jupyter-core==4.7.1
 jupyterlab-pygments==0.1.2
 lxml==4.6.3
+matplotlib
 MarkupSafe==2.0.0
 mistune==0.8.4
 numpy==1.20.2
 opencv-contrib-python==4.5.1.48
+pandas==0.19.0
 parso==0.8.1
 pickleshare==0.7.5
 pipenv==2020.11.15
@@ -39,6 +41,7 @@ PyYAML==5.4.1
 pyzmq==22.0.3
 requests==2.25.1
 six==1.15.0
+streamlit
 terminado==0.10.0
 tornado==6.1
 traitlets==5.0.5
